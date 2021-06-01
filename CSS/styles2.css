@@ -99,5 +99,5 @@ button span
 
 img:hover
 {
-    transform: rotate(15deg);
+    transform: rotate(15deg) scale(1.25);
 }
