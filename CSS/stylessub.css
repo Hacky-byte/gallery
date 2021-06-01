@@ -28,4 +28,10 @@ body
 img
 {
     width: 100%;
+    transition:0.5s;
+}
+
+img:hover
+{
+    transform: scale(1.5);
 }
